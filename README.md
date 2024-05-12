@@ -20,7 +20,9 @@ Our software is awesome!!!!!!!!!!
 
 3. Ensure that Eclipse's JDK Compilance is configured to ```JDK 17```.
 
-4. To run the program go to ```Iteration 3 -> src -> main -> java``` and open ```mainLogin.java``` then run the file (if it says there errors in the workspace, run anyway).
+4. To run the program go to ```Iteration 3 -> src -> main -> java``` and open ```mainLogin.java```.
+
+5. Run the file (if it says there errors in the workspace, run anyway).
 
 
 # Technologies Used
