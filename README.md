@@ -22,7 +22,7 @@ Our software is awesome!!!!!!!!!!
 
 4. To run the program go to ```Iteration 3 -> src -> main -> java``` and open ```mainLogin.java```.
 
-5. Run the file (if it says there errors in the workspace, run anyway).
+5. Run the file (if it says "There errors in the workspace", run anyway).
 
 
 # Technologies Used
