@@ -14,7 +14,7 @@ Our software is awesome!!!!!!!!!!
 
 # How To Run
 
-1. Download the repository's ZIP file by clicking ```< > Code -> Download ZIP``` in the reposiotry page.
+1. Download the repository's ZIP file by clicking ```< > Code -> Download ZIP``` in the repository page.
 
 2. Import the ZIP file into Eclipse by doing the following in Eclipse: ```File -> Import -> Existing Projects into Workspace``` and select ```Select archive file``` and click ```Browse``` to import the recently downloaded ZIP file.
 
